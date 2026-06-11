@@ -4,7 +4,7 @@
 
 ---
 
-### 🔗 Live Project Link: [https://indi-segment-pro-analytics.onrender.com](https://github.com/Ahammadbi123/NEC_CRT_PROJECT2_CUSTOMER_SEGMENTATION)
+### 🔗 Live Project Link: [https://nec-crt-project2-customer-segmentation.onrender.com](https://github.com/Ahammadbi123/NEC_CRT_PROJECT2_CUSTOMER_SEGMENTATION)
 
 ---
 
